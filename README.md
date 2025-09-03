@@ -14,7 +14,7 @@ Making predictions on new transactions
 
 # Live Demo
 
-[Demo link]()
+[Demo link](https://credit-card-fraud-dection-7e4ewybpeqvk2ozhecc2ht.streamlit.app/)
 
 # Features
 Data Overview: Explore dataset statistics and class distribution
