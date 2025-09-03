@@ -99,7 +99,7 @@ if app_mode == "Home":
     4. Make predictions on new data in the **Make Predictions** section
     """)
     
-    st.image("https://miro.medium.com/v2/resize:fit:1400/1*6sJ1LPvdxkEeWi4zB2qo-w.png", 
+    st.image("https://github.com/subhadipsinha722133/Credit-Card-Fraud-Dection/blob/main/ccfd-scaled.jpeg", 
              use_column_width=True, caption="Credit Card Fraud Detection")
 
 # Data Overview page
@@ -327,4 +327,5 @@ The model is trained on historical transaction data and can flag suspicious acti
 1. Use the actual credit card fraud dataset
 2. Implement more sophisticated models
 3. Add additional validation and security measures
+
 """)
