@@ -39,11 +39,11 @@ Amount: Transaction amount
 Class: 0 for legitimate, 1 for fraudulent transactions
 
 # Installation
-Clone the repository:
+Clone the repository: <br>
 
-bash
-git clone https://github.com/subhadipsinha722133/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+bash <br>
+git clone https://github.com/subhadipsinha722133/credit-card-fraud-detection.git <br>
+cd credit-card-fraud-detection  <br>
 Install required packages:
 
 bash
